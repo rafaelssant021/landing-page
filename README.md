@@ -1,23 +1,36 @@
-Landing Page
+# Landing Page
 
-Projeto de uma landing page responsiva desenvolvida com foco em estruturação semântica, estilização moderna e organização de layout.
+Acesse o projeto: https://rafaelssant021.github.io/landing-page/
 
-Tecnologias utilizadas
+## Sobre
+Este projeto consiste em uma landing page desenvolvida com foco em apresentação de conteúdo e conversão de usuários.
+O objetivo foi praticar a criação de páginas diretas, com layout estratégico e organização de informações para guiar o usuário a uma ação específica.
 
+---
+
+## Tecnologias utilizadas
 - HTML5
 - CSS3
 - JavaScript
 
-Objetivo
+---
 
-Praticar criação de páginas responsivas, organização de layout com CSS e manipulação básica com JavaScript.
+## Funcionalidades
+- Estrutura focada em um único objetivo (conversão)
+- Layout organizado e visual atrativo
+- Seções bem definidas (apresentação, conteúdo e chamada para ação)
+- Design responsivo
 
-O que aprendi
+---
 
-- Estruturação semântica com HTML
-- Estilização e responsividade com CSS
-- Organização de código
-- Manipulação básica do DOM
 
-Projeto desenvolvido para prática e evolução em Desenvolvimento Web.
+## O que eu pratiquei neste projeto
+- Criação de layouts estratégicos
+- Organização de conteúdo para UX (experiência do usuário)
+- Uso de CSS para design e identidade visual
+- Estruturação de páginas com foco em conversão
 
+---
+
+## Como funciona
+A landing page apresenta informações de forma direta e objetiva, guiando o usuário até uma ação (como clicar em um botão ou interagir com o conteúdo). Esse tipo de página é projetado para evitar distrações e aumentar as chances de conversão.
